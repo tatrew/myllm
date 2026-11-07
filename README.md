@@ -1,0 +1,1 @@
+oh i forgot to say i took some stuff from deepseek v4 they r legends tysm for ur model and opensource code. Also its gqa transformer i want to make the next one using moe i didnt use moe here bcs model is small asf so i thought that gqa would be better
